@@ -1,0 +1,15 @@
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\bin\Debug\net7.0\Honey.exe
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\bin\Debug\net7.0\Honey.deps.json
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\bin\Debug\net7.0\Honey.runtimeconfig.json
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\bin\Debug\net7.0\Honey.dll
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\bin\Debug\net7.0\Honey.pdb
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\obj\Debug\net7.0\Honey.csproj.AssemblyReference.cache
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\obj\Debug\net7.0\Honey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\obj\Debug\net7.0\Honey.AssemblyInfoInputs.cache
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\obj\Debug\net7.0\Honey.AssemblyInfo.cs
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\obj\Debug\net7.0\Honey.csproj.CoreCompileInputs.cache
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\obj\Debug\net7.0\Honey.dll
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\obj\Debug\net7.0\refint\Honey.dll
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\obj\Debug\net7.0\Honey.pdb
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\obj\Debug\net7.0\Honey.genruntimeconfig.cache
+C:\Users\Faithtorian\Desktop\Review\Honey\Honey\obj\Debug\net7.0\ref\Honey.dll
